@@ -8,6 +8,15 @@ export const projects = [
     visit: 'https://sefcourier.netlify.app/',
     id: 0,
   },
+   {
+    title: 'My Restaurant',
+    description: "This an online food ordering site built with plain HTML and CSS. It just represents the first ordering page.",
+      image: '/images/3.jpg',
+      tags: ['HTML', 'CSS'],
+    source: 'https://github.com/scovia-achan/scovia-shop',
+    visit: 'https://scovia-achan.github.io/scovia-shop/',
+    id: 2,
+  },
   {
     title: 'Book Library',
     description:"",
@@ -17,15 +26,7 @@ export const projects = [
     visit: 'https://google.com',
     id: 1,
   },
-  {
-    title: 'My Restaurant',
-    description: "This an online food ordering site built with plain HTML and CSS. It just represents the first ordering page.",
-      image: '/images/3.jpg',
-      tags: ['HTML', 'CSS'],
-    source: 'https://github.com/scovia-achan/scovia-shop',
-    visit: 'https://scovia-achan.github.io/scovia-shop/',
-    id: 2,
-  },
+ 
   {
     title: 'Unichat',
     description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
