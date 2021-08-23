@@ -1,16 +1,16 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'Safe Courier',
+    description: "Using React, Node.js, Express & MongoDB I built this full-stack Application. The App is called safe Courier and it is a simple app that allows users to send parcels to a specified location",
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://sefcourier.netlify.app/',
     id: 0,
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    title: 'Book Library',
+    description:"",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://google.com',
@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    title: 'My Restaurant',
+    description: "This an online food ordering site built with plain HTML and CSS. It just represents the first ordering page.",
       image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['HTML', 'CSS'],
+    source: 'https://github.com/scovia-achan/scovia-shop',
+    visit: 'https://scovia-achan.github.io/scovia-shop/',
     id: 2,
   },
   {
@@ -41,6 +41,6 @@ export const TimeLineData = [
   { year: 2017, text: 'Started my journey', },
   { year: 2018, text: 'Worked as a freelance developer', },
   { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  // { year: 2020, text: 'Shared my projects with the world', },
+  
 ];
